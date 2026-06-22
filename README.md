@@ -4,9 +4,9 @@
 (Group 78)
 
 ## Group Members
-Serhat AYDIN - Product Owner
-Betül Talu - Scrum Master
-Feridegül ARSLAN - Developer
+ Serhat AYDIN - Product Owner
+ Betül Talu - Scrum Master
+ Feridegül ARSLAN - Developer
 
 ## Project Name
 CodeSentinel
