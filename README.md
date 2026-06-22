@@ -27,7 +27,9 @@ A code review system that connects to GitHub and automatically activates upon op
 - GitHub integration: Offers a realistic, professional, and impressive live demonstration. <br>
 
 <details>
-<summary>🇹🇷 Türkçe Versiyonu Görüntüle</summary>
+<summary> 
+<summary><strong>🇹🇷 Türkçe Versiyonu Görüntüle</strong></summary>
+</summary>
  
 ## Proje Tanımı
 
