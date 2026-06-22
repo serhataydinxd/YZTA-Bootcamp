@@ -4,9 +4,9 @@
 (Group 78)
 
 ## Group Members
- Serhat AYDIN - Product Owner
- Betül Talu - Scrum Master
- Feridegül ARSLAN - Developer
+ - Serhat AYDIN - Product Owner <br>
+ - Betül Talu - Scrum Master <br>
+ - Feridegül ARSLAN - Developer <br>
 
 ## Project Name
 CodeSentinel
@@ -20,8 +20,8 @@ A code review system that connects to GitHub and automatically activates upon op
 
 *Why is this a strong project?
 
--Solves a real-world problem: The developer tooling market is massive.
--Multi-agent orchestration: Demonstrates advanced system architecture, leading to higher jury scores.
--RAG + Memory system: Showcases technical depth beyond basic API calls.
--Ease of deployment: High feasibility for a production-ready demo, providing extra credit.
--GitHub integration: Offers a realistic, professional, and impressive live demonstration.
+- Solves a real-world problem: The developer tooling market is massive. <br>
+- Multi-agent orchestration: Demonstrates advanced system architecture, leading to higher jury scores. <br>
+- RAG + Memory system: Showcases technical depth beyond basic API calls. <br>
+- Ease of deployment: High feasibility for a production-ready demo, providing extra credit. <br>
+- GitHub integration: Offers a realistic, professional, and impressive live demonstration. <br>
