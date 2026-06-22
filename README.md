@@ -15,13 +15,31 @@ CodeSentinel
 https://trello.com/b/9QrBxQrm/yzta-backlog-board
 
 ## Project Description
-*Project Concept
+
 A code review system that connects to GitHub and automatically activates upon opening a Pull Request (PR). It utilizes multiple AI agents to analyze code quality, security, and style compliance, while also remembering past mistakes and learning from individual developer patterns.
 
-*Why is this a strong project?
+* Why is this a strong project?
 
 - Solves a real-world problem: The developer tooling market is massive. <br>
 - Multi-agent orchestration: Demonstrates advanced system architecture, leading to higher jury scores. <br>
 - RAG + Memory system: Showcases technical depth beyond basic API calls. <br>
 - Ease of deployment: High feasibility for a production-ready demo, providing extra credit. <br>
 - GitHub integration: Offers a realistic, professional, and impressive live demonstration. <br>
+
+<details>
+<summary>🇹🇷 Türkçe Versiyonu Görüntüle</summary>
+ 
+## Proje Tanımı
+
+GitHub'a bağlanan, PR (Pull Request) açıldığında otomatik devreye giren, birden fazla AI agent kullanarak kod kalitesini, güvenliğini ve stil uyumunu analiz eden; geçmiş hataları hatırlayan ve geliştirici bazlı öğrenen bir kod review sistemi.
+
+* Neden Güçlü Bir Proje?
+- Gerçek bir ihtiyacı çözüyor (developer tooling pazarı büyük)
+- Multi-agent orkestrasyon → yüksek jüri puanı
+- RAG + hafıza sistemi → teknik derinlik
+- Canlıya almak kolay → ekstra puan
+- GitHub entegrasyonu → gerçekçi ve etkileyici demo
+
+</details>
+
+
