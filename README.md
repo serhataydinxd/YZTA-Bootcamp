@@ -28,6 +28,12 @@ A code review system that connects to GitHub and automatically activates upon op
 - Ease of deployment: High feasibility for a production-ready demo, providing extra credit. <br>
 - GitHub integration: Offers a realistic, professional, and impressive live demonstration. <br>
 
+## Target Audience
+
+1) jsbkjbdjk
+2) dkdlkndlk
+3) dkdkndldk
+
 <details>
 <summary><h3>🇹🇷 Türkçe Versiyonu Görüntüle</h3></summary>
 
@@ -43,13 +49,14 @@ GitHub'a bağlanan, PR (Pull Request) açıldığında otomatik devreye giren, b
 - Canlıya almak kolay → ekstra puan <br>
 - GitHub entegrasyonu → gerçekçi ve etkileyici demo <br>
 
-</details>
-
-## Target Audience
+## Hedef Kitle 
 
 1) jsbkjbdjk
 2) dkdlkndlk
 3) dkdkndldk
+
+</details>
+
 
 # SPRINTS
 
