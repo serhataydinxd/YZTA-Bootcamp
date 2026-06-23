@@ -8,6 +8,8 @@
  - Betül Talu - Scrum Master <br>
  - Feridegül ARSLAN - Developer <br>
 
+## Ürün İle İlgili Bilgiler
+
 ## Project Name
 CodeSentinel
 
@@ -18,7 +20,7 @@ https://trello.com/b/9QrBxQrm/yzta-backlog-board
 
 A code review system that connects to GitHub and automatically activates upon opening a Pull Request (PR). It utilizes multiple AI agents to analyze code quality, security, and style compliance, while also remembering past mistakes and learning from individual developer patterns.
 
-* Why is this a strong project?
+## Features
 
 - Solves a real-world problem: The developer tooling market is massive. <br>
 - Multi-agent orchestration: Demonstrates advanced system architecture, leading to higher jury scores. <br>
@@ -28,18 +30,49 @@ A code review system that connects to GitHub and automatically activates upon op
 
 <details>
 <summary><h3>🇹🇷 Türkçe Versiyonu Görüntüle</h3></summary>
- 
+
 ## Proje Tanımı
 
 GitHub'a bağlanan, PR (Pull Request) açıldığında otomatik devreye giren, birden fazla AI agent kullanarak kod kalitesini, güvenliğini ve stil uyumunu analiz eden; geçmiş hataları hatırlayan ve geliştirici bazlı öğrenen bir kod review sistemi.
 
-* Neden Güçlü Bir Proje?
-- Gerçek bir ihtiyacı çözüyor (developer tooling pazarı büyük)
-- Multi-agent orkestrasyon → yüksek jüri puanı
-- RAG + hafıza sistemi → teknik derinlik
-- Canlıya almak kolay → ekstra puan
-- GitHub entegrasyonu → gerçekçi ve etkileyici demo
+## Özellikler
+
+- Gerçek bir ihtiyacı çözüyor (developer tooling pazarı büyük) <br>
+- Multi-agent orkestrasyon → yüksek jüri puanı <br>
+- RAG + hafıza sistemi → teknik derinlik <br>
+- Canlıya almak kolay → ekstra puan <br>
+- GitHub entegrasyonu → gerçekçi ve etkileyici demo <br>
 
 </details>
+
+## Target Audience
+
+1) jsbkjbdjk
+2) dkdlkndlk
+3) dkdkndldk
+
+# SPRINTS
+
+<details>
+<summary><h3>Sprint1</h3></summary>
+</details>
+
+
+<details>
+<summary><h3>Sprint2</h3></summary>
+</details>
+
+
+<details>
+<summary><h3>Sprint3</h3></summary>
+</details>
+
+
+
+
+
+
+
+
 
 
